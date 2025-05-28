@@ -1,0 +1,22 @@
+[
+  {
+    "email": "admin@restaurant.null",
+    "password": "adminRestaurantMagic12",
+    "rol": "MANAGER"
+  },
+  {
+    "email": "chelner@restaurant.null",
+    "password": "chelner1",
+    "rol": "PERSONAL"
+  },
+  {
+    "email": "chelner2@restaurant.null",
+    "password": "chelner2",
+    "rol": "PERSONAL"
+  },
+  {
+    "email": "chelner3@restaurant.null",
+    "password": "chelner3",
+    "rol": "PERSONAL"
+  }
+]
